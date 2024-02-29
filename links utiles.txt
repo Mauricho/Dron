@@ -1,0 +1,63 @@
+https://repository.unab.edu.co/bitstream/handle/20.500.12749/20508/2017_Articulo_Mejia_Espitia_Julian_Arturo.pdf?sequence=1
+
+https://guiadrones.com/base-de-conocimiento/como-funciona-un-dron-con-explicacion-de-helices-y-motores/
+
+https://www.youtube.com/watch?v=e7evhjvml_g
+
+https://www.youtube.com/watch?v=SCvKoaTcjyQ
+
+https://www.youtube.com/watch?v=jh9dXNzTzz8
+
+https://www.youtube.com/watch?v=Rbl5n31bCE0&list=PLb_2Ipj07tdFvlwkXtEq0ZgiwjYqebfPG&index=5
+
+https://www.youtube.com/watch?v=sBD4_bCpA-k
+
+https://www.youtube.com/watch?v=uUKCJXpS7Ac
+
+https://www.youtube.com/watch?v=Q2N2OEicXJE&t=32s
+
+https://www.youtube.com/@JoyplanesRC1/videos
+
+https://www.youtube.com/watch?v=iG-Kr2umHbY&t=2s
+
+https://articulo.mercadolibre.com.ar/MLA-860903476-motor-dron-20x85mm-37v-hubsan-x4-h502s-h502e-h502t-h507a-_JM?variation=#reco_item_pos=0&reco_backend=ranker_v2-vip-v2p_marketplace&reco_backend_type=low_level&reco_client=vip-v2p&reco_id=afa24076-cfe7-488d-b8f4-c991e51d69d3&reco_backend_model=ranker_v2
+
+https://www.youtube.com/watch?v=DprVGdngImw
+
+https://www.youtube.com/watch?v=qK3i_XkC9jM
+
+https://www.youtube.com/@arduprojectarduino459
+
+https://arduproject.es/mando-rc-y-receptor-programacion-en-arduino-sketch/
+
+https://es.z-library.se/book/3613895/443581/building-smart-drones-with-esp8266-and-arduino-build-exciting-drones-by-leveraging-the-capabilities.html
+
+https://todohobby.net/es/motores-brushless/35870-motor-el-brushless-rs2205-ccw-2300kv-drone-emax.html
+
+https://www.globalspec.com/search/products?page=ms#sqid=149629650&comp=5488&show=products&pg=1
+
+https://polaridad.es/como-calcular-el-torque-de-un-motor/?expand_article=1 (calculo del torque)
+
+https://www.youtube.com/watch?v=yIScfmQAEGY (Modelado de cuadricoptero)
+
+ESCs:
+
+https://quadquestions.com/product/fvt-littlebee-30a-s-blheli-s-enabled-30a-esc/
+
+https://bluerobotics.com/wp-content/uploads/2019/03/BLHeli_S-manual-SiLabs-Rev16.x.pdf
+
+https://oscarliang.com/connect-flash-blheli-s-esc/
+
+https://oscarliang.com/blheli-s-hardware-pwm-32bit/
+
+https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/ (calibracion ESC)
+
+MPU6050:
+
+https://www.youtube.com/watch?v=uN8SYfGwYVw (sensor + esp8266)
+
+3516485216 (todo-pilas)
+
+GENERACION PID:
+
+https://electrositio.com/que-es-un-regulador-pid-funcionamiento-y-sus-aplicaciones/#metodos_de_ajuste
